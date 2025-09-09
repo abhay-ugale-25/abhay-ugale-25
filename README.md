@@ -36,4 +36,4 @@ Final-year Computer Science student specializing in **Data Science**. Passionate
 ## 🔗 Connect with Me
 
 * [GitHub](https://github.com/abhayugale)
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+* 📧 Email: [abhayugale3000@gmail.com](mailto:abhayugale3000@gmail.com)
